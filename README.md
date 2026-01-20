@@ -1,3 +1,21 @@
+# Private Chat: A Privacy-First Real-Time Messaging System
+
+Developed a high-performance, privacy-focused chat application using Next.js, Elysia, and Redis, designed for secure and ephemeral communication.
+Implemented real-time messaging with ultra-low latency, enabling seamless live conversations between users.
+Engineered automatic data self-destruction, ensuring all messages are securely wiped from servers within 10 minutes or instantly upon manual deletion.
+Leveraged Redis for in-memory message handling and session management, significantly improving speed and real-time reliability.
+Applied privacy-by-design principles to eliminate long-term data storage and minimize security risk.
+
+## Demo Video
+
+Watch a demonstration of the app's functionality here:
+
+<p align="center">
+  <a href="https://youtu.be/mvqxe8_kDPc">
+    <img src="docs/images/thumbnail.png" width="700" />
+  </a>
+</p>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
