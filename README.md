@@ -11,7 +11,7 @@ Applied privacy-by-design principles to eliminate long-term data storage and min
 Watch a demonstration of the app's functionality here:
 
 <p align="center">
-  <a href="https://youtu.be/mvqxe8_kDPc">
+  <a href="https://www.youtube.com/watch?v=mvqxe8_kDPc">
     <img src="docs/images/thumbnail.png" width="700" />
   </a>
 </p>
